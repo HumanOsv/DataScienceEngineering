@@ -47,17 +47,33 @@ Los principales objetivos del curso son:
 ### Topicos curso 
 
 
-* __Módulo 1__:
+* __Módulo 1__: Bases de programación y análisis de datos en Python.
 
-  dadsadasdasd
 
-* __Módulo 2__: 
+  * Introducción al lenguaje de programación Python.
+  * Entornos de desarrollo, estructuras de datos y manipulación.
+  * Introducción a SQL para el análisis de datos.
 
-* __Módulo 3__: 
+* __Módulo 2__:
 
-* __Módulo 4__: 
+  * Introducción al lenguaje de programación Python.
+  * Entornos de desarrollo, estructuras de datos y manipulación.
+  * Introducción a SQL para el análisis de datos.
 
-* __Módulo 5__: 
+
+* __Módulo 3__:
+
+  * Introducción al lenguaje de programación Python.
+  * Entornos de desarrollo, estructuras de datos y manipulación.
+  * Introducción a SQL para el análisis de datos.
+
+* __Módulo 4__: Fundamentos de Big Data y sus retos (las 5 V).
+
+  * Introducción al lenguaje de programación Python.
+  * Entornos de desarrollo, estructuras de datos y manipulación.
+  * Introducción a SQL para el análisis de datos.
+
+* __Módulo 5__: Arquitectura y frameworks de Big Data.
 
 * __Módulo 6__: Procesamiento distribuido: MapReduce y Hadoop en acción.
 
