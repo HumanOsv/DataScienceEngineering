@@ -63,7 +63,7 @@ Los principales objetivos del curso son:
 
   * Fundamentos de la Ciencia de Datos: del análisis descriptivo al prescriptivo [ppt](https://www.dropbox.com/scl/fi/7stbhcun2mfptqoeu0rfg/07Unidad.pptx?rlkey=zb0cq4j3i19zxbcvplcyoe4m1&dl=0) [lab](https://www.dropbox.com/scl/fo/9985iwsw0d7zdbaj4mkuz/AJ_pMIA3r4KRnYaFAgz_vRk?rlkey=iiejmvmwnpje5bn2cnm9l0ll6&dl=0).
   * Introducción al Machine Learning: algoritmos supervisados y no supervisados [ppt](https://www.dropbox.com/scl/fi/n8aw62tgypmk9r9srczmb/08Unidad.pptx?rlkey=o2lgp8n8cxnh54xd4aptatm5v&dl=0) [lab](https://www.dropbox.com/scl/fo/reg47mo3ou9h4j2jbmtdu/AMc3rXWSdG5ywHhRtw0qxfA?rlkey=g8h5pusdxlvq1n0jii5072zeq&dl=0).
-  * Redes Neuronales y Deep Learning: conceptos, herramientas y aplicaciones [ppt]( ) [lab]( ).
+  * Redes Neuronales y Deep Learning: conceptos, herramientas y aplicaciones [ppt]( ) [lab](https://www.dropbox.com/scl/fo/3qt6ninvoigiahxwelqm1/APQPKh804GYMZ-VPVYyc2Qs?rlkey=7edpgu3o1kpudo9n53m8bpmvs&dl=0).
 
 * __Módulo 4__: Fundamentos de Big Data y sus retos (las 5 V).
 
