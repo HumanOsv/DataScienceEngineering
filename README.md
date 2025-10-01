@@ -1,10 +1,10 @@
 # Ciencia e Ingenieria de Datos
 
-El Curso en Ciencia e Ingeniería de Datos es un programa diseñado para profundizar en el manejo en los tipos de datos. Su objetivo principal es aplicar principios y técnicas de modelamiento y visualización de datos para resolver problemas en diferentens areas mediante metodologías de big data, minería de datos y procesamiento de lenguaje natural.
+<p align="justify"> El Curso en Ciencia e Ingeniería de Datos es un programa diseñado para profundizar en el manejo en los tipos de datos. Su objetivo principal es aplicar principios y técnicas de modelamiento y visualización de datos para resolver problemas en diferentens areas mediante metodologías de big data, minería de datos y procesamiento de lenguaje natural. </p>
 
-El programa se estructura en siete módulos que abarcan desde fundamentos de programación en Python hasta aplicaciones avanzadas de machine learning y deep learning sobre big data. Los contenidos incluyen programación en Python con NumPy y Pandas, visualización con Matplotlib y Seaborn, conceptos de ciencia de datos y machine learning, fundamentos de big data y las 5 V, arquitecturas y frameworks como Hadoop y Spark, procesamiento distribuido con MapReduce, y aplicaciones avanzadas de inteligencia artificial.
+<p align="justify"> El programa se estructura en siete módulos que abarcan desde fundamentos de programación en Python hasta aplicaciones avanzadas de machine learning y deep learning sobre big data. Los contenidos incluyen programación en Python con NumPy y Pandas, visualización con Matplotlib y Seaborn, conceptos de ciencia de datos y machine learning, fundamentos de big data y las 5 V, arquitecturas y frameworks como Hadoop y Spark, procesamiento distribuido con MapReduce, y aplicaciones avanzadas de inteligencia artificial. </p>
 
-La metodología se basa en principios andragógicos con enfoque práctico, incluyendo análisis de casos, trabajos grupales y ejercicios colaborativos.
+<p align="justify"> La metodología se basa en principios andragógicos con enfoque práctico, incluyendo análisis de casos, trabajos grupales y ejercicios colaborativos. </p>
 
 Los principales objetivos del curso son:
 
@@ -18,31 +18,31 @@ Los principales objetivos del curso son:
 
 * __Módulo 1__: Bases de programación y análisis de datos en Python.
 
-Introduce los fundamentos de Python para análisis de datos, incluyendo sintaxis básica, entornos de desarrollo como Jupyter Notebook, uso de librerías fundamentales (NumPy y Pandas), importación de datos desde diversas fuentes y visualización básica con Matplotlib y Seaborn.
+  Introduce los fundamentos de Python para análisis de datos, incluyendo sintaxis básica, entornos de desarrollo como Jupyter Notebook, uso de librerías fundamentales (NumPy y Pandas), importación de datos desde diversas fuentes y visualización básica con Matplotlib y Seaborn.
 
 * __Módulo 2__: Aplicaciones prácticas en minería y visualización.
 
-Se enfoca en técnicas de limpieza y preprocesamiento de datos, análisis exploratorio (EDA) con Pandas, y creación de visualizaciones avanzadas e interactivas con Matplotlib, Seaborn y Plotly. Incluye ejemplos prácticos como análisis del PIB, tasas de inflación y patrones geológicos.
+  Se enfoca en técnicas de limpieza y preprocesamiento de datos, análisis exploratorio (EDA) con Pandas, y creación de visualizaciones avanzadas e interactivas con Matplotlib, Seaborn y Plotly. Incluye ejemplos prácticos como análisis del PIB, tasas de inflación y patrones geológicos.
 
 * __Módulo 3__: Introducción conceptual a la ciencia de datos y machine learning.
 
-Cubre los conceptos fundamentales de la ciencia de datos, el proceso completo desde recolección hasta interpretación, tipos de análisis (descriptivo, diagnóstico, predictivo y prescriptivo), introducción al machine learning y deep learning, y herramientas como Scikit-learn, TensorFlow y PyTorch.
+  Cubre los conceptos fundamentales de la ciencia de datos, el proceso completo desde recolección hasta interpretación, tipos de análisis (descriptivo, diagnóstico, predictivo y prescriptivo), introducción al machine learning y deep learning, y herramientas como Scikit-learn, TensorFlow y PyTorch.
 
 * __Módulo 4__: Fundamentos de Big Data y sus retos (las 5 V).
 
-Define Big Data y explica las cinco características fundamentales: Volumen (grandes cantidades de datos), Velocidad (rapidez de generación y procesamiento), Variedad (diversidad de formatos), Veracidad (calidad y fiabilidad) y Valor (utilidad empresarial). Incluye la importancia de los entornos de datos empresariales.
+  Define Big Data y explica las cinco características fundamentales: Volumen (grandes cantidades de datos), Velocidad (rapidez de generación y procesamiento), Variedad (diversidad de formatos), Veracidad (calidad y fiabilidad) y Valor (utilidad empresarial). Incluye la importancia de los entornos de datos empresariales.
 
 * __Módulo 5__: Arquitectura y frameworks de Big Data.
 
-Presenta la arquitectura por capas de Big Data y los principales frameworks como Apache Hadoop (procesamiento distribuido), Apache Spark (procesamiento en memoria), Apache Kafka, Presto y MongoDB. Enfatiza la sinergia entre Hadoop-Spark para optimizar almacenamiento y procesamiento.
+  Presenta la arquitectura por capas de Big Data y los principales frameworks como Apache Hadoop (procesamiento distribuido), Apache Spark (procesamiento en memoria), Apache Kafka, Presto y MongoDB. Enfatiza la sinergia entre Hadoop-Spark para optimizar almacenamiento y procesamiento.
 
 * __Módulo 6__: Procesamiento distribuido: MapReduce y Hadoop en acción.
 
-Explica el paradigma MapReduce con sus fases Map y Reduce, implementación práctica en Hadoop usando HDFS para almacenamiento distribuido, gestión de recursos con YARN, y ejemplos clásicos como el conteo de palabras en grandes volúmenes de texto.
+  Explica el paradigma MapReduce con sus fases Map y Reduce, implementación práctica en Hadoop usando HDFS para almacenamiento distribuido, gestión de recursos con YARN, y ejemplos clásicos como el conteo de palabras en grandes volúmenes de texto.
 
 * __Módulo 7__: Aplicaciones avanzadas: machine learning y deep learning sobre Big Data.
 
-Integra machine learning y deep learning con Big Data utilizando frameworks como Spark MLlib, TensorFlow y PyTorch. Cubre aplicaciones como análisis predictivo, segmentación de clientes, detección de fraudes, reconocimiento de imágenes y procesamiento de lenguaje natural.
+  Integra machine learning y deep learning con Big Data utilizando frameworks como Spark MLlib, TensorFlow y PyTorch. Cubre aplicaciones como análisis predictivo, segmentación de clientes, detección de fraudes, reconocimiento de imágenes y procesamiento de lenguaje natural.
 
 ### Topicos curso 
 
