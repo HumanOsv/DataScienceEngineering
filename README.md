@@ -49,29 +49,23 @@ Los principales objetivos del curso son:
 
 * __Módulo 1__: Bases de programación y análisis de datos en Python.
 
+  * Introducción al lenguaje de programación Python [ppt]( ) [lab]( ).
+  * Entornos de desarrollo, estructuras de datos y manipulación [ppt]( ) [lab]( ).
+  * Introducción a SQL para el análisis de datos [ppt]( ) [lab]( ).
+  * Introducción a las Bibliotecas de Visualización en Python [ppt]( ) [lab]( ).
 
-  * Introducción al lenguaje de programación Python.
-  * Entornos de desarrollo, estructuras de datos y manipulación.
-  * Introducción a SQL para el análisis de datos.
+* __Módulo 2__: Aplicaciones prácticas en minería y visualización.
 
-* __Módulo 2__:
+  * Limpieza, preprocesamiento y análisis exploratorio de datos (EDA) [ppt]( ).
+  * Laboratorio EDA [lab]( ).
 
-  * Introducción al lenguaje de programación Python.
-  * Entornos de desarrollo, estructuras de datos y manipulación.
-  * Introducción a SQL para el análisis de datos.
+* __Módulo 3__: Introducción conceptual al Data Science y Machine Learning
 
-
-* __Módulo 3__:
-
-  * Introducción al lenguaje de programación Python.
-  * Entornos de desarrollo, estructuras de datos y manipulación.
-  * Introducción a SQL para el análisis de datos.
+  * Fundamentos de la Ciencia de Datos: del análisis descriptivo al prescriptivo [ppt]( ) [lab]( ).
+  * Introducción al Machine Learning: algoritmos supervisados y no supervisados [ppt]( ) [lab]( ).
+  * Redes Neuronales y Deep Learning: conceptos, herramientas y aplicaciones [ppt]( ) [lab]( ).
 
 * __Módulo 4__: Fundamentos de Big Data y sus retos (las 5 V).
-
-  * Introducción al lenguaje de programación Python.
-  * Entornos de desarrollo, estructuras de datos y manipulación.
-  * Introducción a SQL para el análisis de datos.
 
 * __Módulo 5__: Arquitectura y frameworks de Big Data.
 
@@ -79,34 +73,14 @@ Los principales objetivos del curso son:
 
 * __Módulo 7__: Aplicaciones avanzadas: machine learning y deep learning sobre Big Data.
 
+### Evaluaciones
+
+* 
+
+### Referencias
+
+* Presentaciónes articulos cientificos [link 1]().
+* Proyecto final [link 2]( ).
 
 
 
-
-
-
-
-
-
-
-
-* Introduccion Inteligencia Artificial [link 1](https://www.dropbox.com/scl/fo/gx0r10sqh4p3in7fms606/h?rlkey=fgepftu1x08pfowfk6egsi87i&dl=0).
-* ChatBots [link 2](https://www.dropbox.com/scl/fo/8qjcg20au86wc7etwao0c/h?rlkey=69ybwb1xbjus8o51ddv5anx95&dl=0).
-* Procesamiento del lenguaje natural [link 3](https://www.dropbox.com/scl/fo/i21hcmawad1sykym4gncz/h?rlkey=g7dzmrraoh2s4u49oa9ibkkq0&dl=0).
-* Vision Computacional [link 4](https://www.dropbox.com/scl/fo/m2kmhwpwg9mtrih8cya7o/h?rlkey=lsgova8r8ozq44ymlmgta7z02&dl=0)
-* Inteligencia Artificial en Geomática y Agricultura de Precisión [link 5](https://www.dropbox.com/scl/fo/393pmg1o6moq2la5viixl/ADWsRrMSDl8TtM7pGpQtgTk?rlkey=d5964voivwcrdreo05wk8nybc&dl=0)
-
-### Articulos Presentaciones
-
-* Presentación 1 [link 1](https://www.dropbox.com/scl/fo/l0xxjl363veq2bb29muht/h?rlkey=9bjv0c11gvfsa2l0sl2cbp925&dl=0).
-* Presentación 2 [link 2](https://www.dropbox.com/scl/fo/qco1u8tcjkln3ezs1efvh/h?rlkey=wa8ley75s3yqxfb67j8987x62&dl=0).
-* Presentación 3 [link 3](https://www.dropbox.com/scl/fo/ev922vwcdpxgicnb6dznk/h?rlkey=yauwv2eq6gcrkp5uxnsky0fen&dl=0).
-
-### Rubricas
-
-* Presentaciónes articulos cientificos [link 1](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
-* Proyecto final [link 2](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
-* Control programación ChatBot-NLP [link 3](https://www.dropbox.com/scl/fi/m44dpyxfz8ahdskggm46g/FORMATO_EVALUACION_-MODULO1.pdf?rlkey=kzmoerkempa3j98vu5rlms9cb&st=7wr7yclo&dl=0)
-### Clases videos
-
-* Links [link 1]().
