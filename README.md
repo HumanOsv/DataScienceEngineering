@@ -49,20 +49,20 @@ Los principales objetivos del curso son:
 
 * __Módulo 1__: Bases de programación y análisis de datos en Python.
 
-  * Introducción al lenguaje de programación Python [ppt]( ) [lab]( ).
-  * Entornos de desarrollo, estructuras de datos y manipulación [ppt]( ) [lab]( ).
-  * Introducción a SQL para el análisis de datos [ppt]( ) [lab]( ).
-  * Introducción a las Bibliotecas de Visualización en Python [ppt]( ) [lab]( ).
+  * Introducción al lenguaje de programación Python [ppt](https://www.dropbox.com/scl/fi/oh2gaq1tkzd54ia6yov55/01Unidad.pptx?rlkey=r838lk4vdp8axy7gqm13vinvr&dl=0) [lab](https://www.dropbox.com/scl/fo/ebiss6j7zz0fq3ymf8uqt/AFCK2uyatmVzdlNNf1q5ods?rlkey=nvuqbfkcwt5blk92daann8mg9&dl=0).
+  * Entornos de desarrollo, estructuras de datos y manipulación [ppt](https://www.dropbox.com/scl/fi/f1kfmy7r8m53s0so1godl/02Unidad.pptx?rlkey=usjg5ccjs97nr5fs4320pj4b5&dl=0) [lab](https://www.dropbox.com/scl/fo/1oefppcfbufg7rrbs8cjh/ABjPNaP2KDuGH1CK0yKcUMI?rlkey=7hoql60oqfh2mfzifyiphw23g&dl=0).
+  * Introducción a SQL para el análisis de datos [ppt](https://www.dropbox.com/scl/fi/pqgh09urmm7xmig6n57i0/03Unidad.pptx?rlkey=j58ftxsfnvcnf9jp9nhzy5izz&dl=0) [lab](https://www.dropbox.com/scl/fo/taendt9atl080oi453uli/ACMzxYUEUFrf-AnotzndSWg?rlkey=2fnas4l3tteztyozkwqx96ehq&dl=0).
+  * Introducción a las Bibliotecas de Visualización en Python [ppt](https://www.dropbox.com/scl/fi/xw46i6j6uaiva0weqdkid/04Unidad.pptx?rlkey=thxlah2jrgc50agreqdzu1n2i&dl=0) [lab](https://www.dropbox.com/scl/fo/e4j1ohwtkb4sg2ea04nk8/AHmyG9f35Q8qFiIUcq4lYn4?rlkey=l9zpc9tbeejdivrvqy4ku6pq5&dl=0).
 
 * __Módulo 2__: Aplicaciones prácticas en minería y visualización.
 
-  * Limpieza, preprocesamiento y análisis exploratorio de datos (EDA) [ppt]( ).
-  * Laboratorio EDA [lab]( ).
+  * Limpieza, preprocesamiento y análisis exploratorio de datos (EDA) [ppt](https://www.dropbox.com/scl/fi/vccdco6yziusts0ltuvak/05Unidad.pptx?rlkey=tntbdmjwbka6nneppp3i1kpxq&dl=0).
+  * Laboratorio EDA [lab](https://www.dropbox.com/scl/fo/t8lm9x2eycd3y6scexso9/ANw2brRyffetuw30Kcn7DN4?rlkey=jiwsikxk3hhvrskolhe6h96dc&dl=0).
 
 * __Módulo 3__: Introducción conceptual al Data Science y Machine Learning
 
-  * Fundamentos de la Ciencia de Datos: del análisis descriptivo al prescriptivo [ppt]( ) [lab]( ).
-  * Introducción al Machine Learning: algoritmos supervisados y no supervisados [ppt]( ) [lab]( ).
+  * Fundamentos de la Ciencia de Datos: del análisis descriptivo al prescriptivo [ppt](https://www.dropbox.com/scl/fi/7stbhcun2mfptqoeu0rfg/07Unidad.pptx?rlkey=zb0cq4j3i19zxbcvplcyoe4m1&dl=0) [lab](https://www.dropbox.com/scl/fo/9985iwsw0d7zdbaj4mkuz/AJ_pMIA3r4KRnYaFAgz_vRk?rlkey=iiejmvmwnpje5bn2cnm9l0ll6&dl=0).
+  * Introducción al Machine Learning: algoritmos supervisados y no supervisados [ppt](https://www.dropbox.com/scl/fi/n8aw62tgypmk9r9srczmb/08Unidad.pptx?rlkey=o2lgp8n8cxnh54xd4aptatm5v&dl=0) [lab](https://www.dropbox.com/scl/fo/reg47mo3ou9h4j2jbmtdu/AMc3rXWSdG5ywHhRtw0qxfA?rlkey=g8h5pusdxlvq1n0jii5072zeq&dl=0).
   * Redes Neuronales y Deep Learning: conceptos, herramientas y aplicaciones [ppt]( ) [lab]( ).
 
 * __Módulo 4__: Fundamentos de Big Data y sus retos (las 5 V).
@@ -75,12 +75,17 @@ Los principales objetivos del curso son:
 
 ### Evaluaciones
 
-* 
+* Evaluacion Modulo 1 [link 1] (https://www.dropbox.com/scl/fi/67256dawt6y29lal0yk9q/Eva_I.pdf?rlkey=e5ybcsqxux1k9exe60wau4gdq&dl=0).
+* Evaluacion Modulo 2 [link 2] ().
+* Evaluacion Modulo 3 [link 3] ().
 
 ### Referencias
 
-* Presentaciónes articulos cientificos [link 1]().
-* Proyecto final [link 2]( ).
+* Automate the Boring Stuff with Python Programming [link 1](https://www.dropbox.com/scl/fi/ctzlbh2d1cbj6x70oln12/Automate-the-Boring-Stuff-with-Python.pdf?rlkey=616uc34dnklk4iamgk2iqh6js&dl=0).
+* Data Structures and Algorithms in Python [link 2](https://www.dropbox.com/scl/fi/72kkdhzbe8itt73vfeu65/Data-Structures-and-Algorithms-in-Python.pdf?rlkey=inadt8e565gbo1t6rrg4t37nk&dl=0).
+* Introduction to Python Programming [link 3](https://www.dropbox.com/scl/fi/xxyqvw361nhgnvzj1ezg6/Introduction_to_Python_Programming_-_WEB.pdf?rlkey=kiuhovd7o9o7nefqcfudg5rru&dl=0).
+* Learning Python [link 4](https://www.dropbox.com/scl/fi/c2tue4qucsjp4mz90h3pg/Learning_Python.pdf?rlkey=fh04chhdxus2jhapmn59coe30&dl=0).
+* Python Data Science Handbook [link 5](https://www.dropbox.com/scl/fi/t4se7sl3v8p8llzn06obf/Python_Datascience.pdf?rlkey=fbb4iy2l4b62upxy4stqg787h&dl=0).
 
 
 
