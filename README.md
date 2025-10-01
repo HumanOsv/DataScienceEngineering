@@ -49,15 +49,15 @@ Los principales objetivos del curso son:
 
 * __Módulo 1__: Bases de programación y análisis de datos en Python.
 
-  * Introducción al lenguaje de programación Python [ppt](https://www.dropbox.com/scl/fi/oh2gaq1tkzd54ia6yov55/01Unidad.pptx?rlkey=r838lk4vdp8axy7gqm13vinvr&dl=0) [lab](https://www.dropbox.com/scl/fo/ebiss6j7zz0fq3ymf8uqt/AFCK2uyatmVzdlNNf1q5ods?rlkey=nvuqbfkcwt5blk92daann8mg9&dl=0).
-  * Entornos de desarrollo, estructuras de datos y manipulación [ppt](https://www.dropbox.com/scl/fi/f1kfmy7r8m53s0so1godl/02Unidad.pptx?rlkey=usjg5ccjs97nr5fs4320pj4b5&dl=0) [lab](https://www.dropbox.com/scl/fo/1oefppcfbufg7rrbs8cjh/ABjPNaP2KDuGH1CK0yKcUMI?rlkey=7hoql60oqfh2mfzifyiphw23g&dl=0).
+  * Introducción al lenguaje de programación Python [ppt](https://www.dropbox.com/scl/fi/oh2gaq1tkzd54ia6yov55/01Unidad.pptx?rlkey=r838lk4vdp8axy7gqm13vinvr&dl=0) [lab](https://www.dropbox.com/scl/fo/ue6xmde8ghpktzjm088ux/ALAj706afVaGqQrPpFIsoGI?rlkey=cvdqdcaw3669jnkrd2ydjte6k&dl=0).
+  * Entornos de desarrollo, estructuras de datos y manipulación [ppt](https://www.dropbox.com/scl/fi/f1kfmy7r8m53s0so1godl/02Unidad.pptx?rlkey=usjg5ccjs97nr5fs4320pj4b5&dl=0) [lab](https://www.dropbox.com/scl/fo/hbqbx2rwluw4yqn9x0iti/AO52ZGcu1ziayGUaD6f7sH4?rlkey=m84zv0nkk2tt9dfc4sczp40m5&dl=0).
   * Introducción a SQL para el análisis de datos [ppt](https://www.dropbox.com/scl/fi/pqgh09urmm7xmig6n57i0/03Unidad.pptx?rlkey=j58ftxsfnvcnf9jp9nhzy5izz&dl=0) [lab](https://www.dropbox.com/scl/fo/taendt9atl080oi453uli/ACMzxYUEUFrf-AnotzndSWg?rlkey=2fnas4l3tteztyozkwqx96ehq&dl=0).
-  * Introducción a las Bibliotecas de Visualización en Python [ppt](https://www.dropbox.com/scl/fi/xw46i6j6uaiva0weqdkid/04Unidad.pptx?rlkey=thxlah2jrgc50agreqdzu1n2i&dl=0) [lab](https://www.dropbox.com/scl/fo/e4j1ohwtkb4sg2ea04nk8/AHmyG9f35Q8qFiIUcq4lYn4?rlkey=l9zpc9tbeejdivrvqy4ku6pq5&dl=0).
+  * Introducción a las Bibliotecas de Visualización en Python [ppt](https://www.dropbox.com/scl/fi/xw46i6j6uaiva0weqdkid/04Unidad.pptx?rlkey=thxlah2jrgc50agreqdzu1n2i&dl=0) [lab](https://www.dropbox.com/scl/fo/km93j61e9gpy5e9328it4/AItbqD-ul4WyQRafusDSG7k?rlkey=cztns14a3nyp6l4v5auu4zn2j&dl=0).
 
 * __Módulo 2__: Aplicaciones prácticas en minería y visualización.
 
   * Limpieza, preprocesamiento y análisis exploratorio de datos (EDA) [ppt](https://www.dropbox.com/scl/fi/vccdco6yziusts0ltuvak/05Unidad.pptx?rlkey=tntbdmjwbka6nneppp3i1kpxq&dl=0).
-  * Laboratorio EDA [lab](https://www.dropbox.com/scl/fo/t8lm9x2eycd3y6scexso9/ANw2brRyffetuw30Kcn7DN4?rlkey=jiwsikxk3hhvrskolhe6h96dc&dl=0).
+  * Laboratorio EDA [lab](https://www.dropbox.com/scl/fo/s39k5wmy9h8n05lkvtuyh/AO9SLjiYvHrDTc2fAbfPvW8?rlkey=av7srn033m14apdj6dov6wcf5&dl=0).
 
 * __Módulo 3__: Introducción conceptual al Data Science y Machine Learning
 
