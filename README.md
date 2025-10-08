@@ -67,7 +67,7 @@ Los principales objetivos del curso son:
 
 * __Módulo 4__: Fundamentos de Big Data y sus retos (las 5 V).
   * Big Data: Del Caos de Datos a la Ventaja Competitiva - Introducción a las 5 V [ppt](https://www.dropbox.com/scl/fi/wai6fum4rpcdt6qrm0fjl/10Unidad.pptx?rlkey=alodnhxm3deva345c2ezdjhq3&dl=0).
-  * Tecnologías del Big Data [ppt]() [lab]().
+  * Tecnologías del Big Data [ppt]().
   *  [ppt]() [lab]().
 
 * __Módulo 5__: Arquitectura y frameworks de Big Data.
