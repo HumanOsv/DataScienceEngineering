@@ -79,7 +79,7 @@ Los principales objetivos del curso son:
 ### Evaluaciones
 
 * Evaluacion 1 [link 1](https://www.dropbox.com/scl/fi/67256dawt6y29lal0yk9q/Eva_I.pdf?rlkey=e5ybcsqxux1k9exe60wau4gdq&dl=0).
-* Evaluacion 2 [link 2]().
+* Evaluacion 2 [link 2](https://www.dropbox.com/scl/fo/1291j3lz2639cgs488l3v/AL7vOkj-Q_4KJl11HZmi3iM?rlkey=xcabmprvgpyew1qlqfwktmmya&dl=0).
 
 
 ### Referencias
