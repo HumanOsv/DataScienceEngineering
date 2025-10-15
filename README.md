@@ -1,5 +1,9 @@
 # Ciencia e Ingenieria de Datos
 
+![Last Commit](https://img.shields.io/github/last-commit/HumanOsv/DataScienceEngineering?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/HumanOsv/DataScienceEngineering)
+
+
 <p align="justify"> El Curso en Ciencia e Ingeniería de Datos es un programa diseñado para profundizar en el manejo en los tipos de datos. Su objetivo principal es aplicar principios y técnicas de modelamiento y visualización de datos para resolver problemas en diferentens areas mediante metodologías de big data, minería de datos y procesamiento de lenguaje natural. </p>
 
 <p align="justify"> El programa se estructura en siete módulos que abarcan desde fundamentos de programación en Python hasta aplicaciones avanzadas de machine learning y deep learning sobre big data. Los contenidos incluyen programación en Python con NumPy y Pandas, visualización con Matplotlib y Seaborn, conceptos de ciencia de datos y machine learning, fundamentos de big data y las 5 V, arquitecturas y frameworks como Hadoop y Spark, procesamiento distribuido con MapReduce, y aplicaciones avanzadas de inteligencia artificial. </p>
