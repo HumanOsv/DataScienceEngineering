@@ -76,7 +76,7 @@ Los principales objetivos del curso son:
 
 * __Módulo 5__: Arquitectura y frameworks de Big Data.
   * El framework Hadoop y su ecosistema [ppt](https://www.dropbox.com/scl/fi/cyd7gbltjkaal0f171134/13Unidad.pptx?rlkey=qdy0jb2mej55o4gi3xsydbar8&dl=0) [lab](https://www.dropbox.com/scl/fi/qx80q1d75xvcspmgfmr0v/IntroMapReduce.ipynb?rlkey=2s8grn8z57672nxm7y4lefs8m&dl=0).
-  * un
+  * Big Data: Apache Spark, Kafka, Presto, MongoDB y Sinergia Hadoop-Spark
   * dos
 * __Módulo 6__: Procesamiento distribuido: MapReduce y Hadoop en acción.
 
