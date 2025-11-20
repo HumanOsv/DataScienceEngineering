@@ -81,7 +81,8 @@ Los principales objetivos del curso son:
     
 * __Módulo 6__: Procesamiento distribuido: MapReduce y Hadoop en acción.
   * El modelo de computación Map-Reduce [ppt](https://www.dropbox.com/scl/fi/igg7igls2qjpln44x4bes/16Unidad.pptx?rlkey=z7j0ie3egkyiby0go86xp6iyn&dl=0).
-  * ... 
+  * Python: programación funcional y Map Reduce [ppt](https://www.dropbox.com/scl/fi/xyuy3ky558qv1cz2no03x/17Unidad.pptx?rlkey=6l3ptifem8syg3qccohhzx8nn&dl=0) [lab]().
+
  
 
 * __Módulo 7__: Aplicaciones avanzadas: machine learning y deep learning sobre Big Data  
