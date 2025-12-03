@@ -85,7 +85,9 @@ Los principales objetivos del curso son:
 
  
 
-* __Módulo 7__: Aplicaciones avanzadas: machine learning y deep learning sobre Big Data  
+* __Módulo 7__: Aplicaciones avanzadas: machine learning y deep learning sobre Big Data
+  * Big Data: Un enfoque de sus aplicaciones desde ML a los LLMs [ppt](https://www.dropbox.com/scl/fi/o6fc2gg9r3db44llrnnol/18Unidad.pptx?rlkey=wwok4mhseqje1cujtnkwrefp1&dl=0).
+ 
 
 ### Evaluaciones
 
